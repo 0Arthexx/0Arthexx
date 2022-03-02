@@ -6,9 +6,6 @@
 <h4 align="center">I am a Junior at Maranatha Christian University pursuing a bachelor's degree in informatics in the MCU. I love Code, Design, Innovation and Experimentation. I am an enthusiastic and social person who likes to take on new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-<div> <iframe src="https://discord.com/widget?id=877553087915634689&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">kkk</iframe>
-</div>
-
 <!-- ## 🔥 Streak Stats -->
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p> -->
