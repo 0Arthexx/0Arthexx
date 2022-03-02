@@ -12,7 +12,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="left"> 
 <!--   &emsp;  -->
@@ -42,7 +42,7 @@
 &emsp; 
 </p>
 
-### 👉 Frontend Development
+### Frontend Development
 
 <p align="left"> 
   &emsp; 
@@ -76,7 +76,7 @@
  &emsp; 
 </p> -->
   
-### 👉Graphic Designing
+### Graphic Designing
 <p align="left">
 <!--   &emsp;   -->
 <!--    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -101,7 +101,7 @@
 &emsp; 
  </p>
 
-### 👉 Software & Tools
+### Software & Tools
 
 <p>
   &emsp;
@@ -151,7 +151,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
